@@ -1,0 +1,8 @@
+numpy==1.23.2
+pandas==1.4.4
+SpeechRecognition==3.8.1
+streamlit==1.15.2
+streamlit_lottie==0.0.3
+streamlit_option_menu==0.3.2
+torch==1.13.0+cu117
+transformers==4.24.0
